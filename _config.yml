@@ -1,6 +1,4 @@
-theme: jekyll-theme-cayman 
-title: " "
-description: " "
+theme: jekyll-theme-minimal
 show_downloads: false
 github:
   is_project_page: false
