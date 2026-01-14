@@ -1,0 +1,10 @@
+---
+---
+
+/* Import the default theme CSS first */
+@import "{{ site.theme }}";
+
+/* Hide the anchor links */
+.anchor, .octicon-link {
+    display: none !important;
+}
